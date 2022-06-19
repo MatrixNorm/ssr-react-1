@@ -1,0 +1,6 @@
+{
+  "name": "JS ENV",
+  "dockerFile": "Dockerfile",
+  "remoteUser": "node",
+  "settings": {} 
+}
